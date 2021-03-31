@@ -1,0 +1,123 @@
+Objective:
+
+    To automate the agriculture system.
+
+    Smart farming deems it necessary to address the issues of population growth, climate change and labour.
+
+    Smart farming decreases the time and increases production.
+
+Abstract:
+
+     Agriculture is the broadest economic sector and plays an important role in the overall economic development of a nation.
+
+     Smart agriculture provides accurate farming and field evaluation.
+
+     The measurement of physical parameters such as soil moisture content, temperature, etc…of the soil that plays a vital role in farming activities.
+
+     Smart farming lowered operation cost.
+ 
+ 
+ Description:
+ 
+      Sensor data is stored to the cloud and then sends to the web application. 
+
+NodeMCU:
+
+      NodeMCU is a low cost open source IoT platform.
+      
+      It is a 32 bit Microcontroller unit.
+
+Sensors:
+
+      Sound sensor
+      Barometer Sensor
+      Light Sensor
+      Water level Sensor
+      Soil Moisture Sensor
+      Rain drop Sensor
+      Gas sensor
+      UV sensor
+
+Sound Sensor:
+
+      Its measures the sound range of the insects like honey bees.
+
+Barometer sensor:
+  
+      It is used in measure the atmospheric pressure and forecast.
+      
+Light Sensor :
+  
+      Check whether its day / night and if its night ,then give a plant growth light using LED.
+
+Water level sensors :
+      Used to check the level of water in tank .
+      If the water level is low ,then automatically water is pumped into the tank.
+      
+Soil moisture sensor :
+      Used to check the wetness of the soil.
+      If the is wet ,then automatically water is pumped from the tank.
+      
+Rain drop sensor:
+      Used to check whether its rainy and close the shutter. 
+      
+Gas sensors :
+      Used to check whether the air is pure or not.
+      Fans are used to remove the smoke gas.
+
+UV sensor:
+      Used to check the intensity of sunlight .
+
+Cloud computing:
+      Cloud computing is the delivery of different services through the Internet. 
+      Data storage, servers, databases, networking, and software.
+      There are several types of cloud platforms some the majorly used platforms are listed below:
+      Firebase
+      Microsoft Azure iot suit
+      Amazon web service
+      IBM Watson
+      Oracle iot
+      Firebase is a platform developed by Google for creating mobile and web applications.
+      There are two types of data base in firebase:
+      Cloud fire store
+      Real time database
+
+DATA TRANSFER PROTOCOL:
+
+      Types of protocols used in data transfer.
+      HTTP(Hyper Text Transfer Protocol)
+      MQTT(Message Queuing Telemetry Transport)
+      
+HTTP:
+      Hyper Text Transfer Protocol is a request and response protocol between client & server.
+      These are the disadvantages of the HTTP:
+      Slower
+      Over head
+      Power consuming
+
+MQTT:
+      This protocol is designed as a lightweight messaging protocol that uses publish/subscribe operations to exchange data between clients and the server.
+      These are the advantages of MQTT:
+      MQTT is light weight protocol
+      Minimized data packets
+      Low power usage 
+      Real time
+
+Web application:
+
+     The user interface (UI) is the point of human-computer interaction and communication in a device. 
+
+      It is also the way through which a user interacts with an application or a website.
+
+
+
+
+
+
+
+
+
+
+
+
+
